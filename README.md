@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://www.linkedin.com/in/tushar-seth-4241561bb/" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.linkedin.com/in/tushar-seth-4241561bb/?logo=twitter&style=for-the-badge" alt="https://www.linkedin.com/in/tushar-seth-4241561bb/" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **DSA and Development**
 
 - 💬 Ask me about **Android,C++,Java**
 
