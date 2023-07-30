@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA and Development**
 
-- 💬 Ask me about **Android,C++,Java**
+- 💬 Ask me about **C++,Java**
 
 - 📫 How to reach me **tusharrealme@gmail.com**
 
