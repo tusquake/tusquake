@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/https://www.linkedin.com/in/tushar-seth-4241561bb/" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.linkedin.com/in/tushar-seth-4241561bb/?logo=twitter&style=for-the-badge" alt="https://www.linkedin.com/in/tushar-seth-4241561bb/" /></a> </p>
 
 - 🌱 I have good understanding of **Data Structure and Algorithm**
-- 
+
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **C++,Java,Html,Css,JavaScript,SQL,MongoDB,React,DBMS,OOPS,OS**
