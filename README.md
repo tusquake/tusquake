@@ -1,37 +1,96 @@
-<h1 align="center">Hi 👋, I'm Tushar Seth</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusquake&label=Profile%20views&color=0e75b6&style=flat" alt="tusquake" /> </p>
+<h1 align="center">Hey there 👋, I'm Tushar Seth</h1>
 
-<p align="left"> <a href="https://twitter.com/https://www.linkedin.com/in/tushar-seth-4241561bb/" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.linkedin.com/in/tushar-seth-4241561bb/?logo=twitter&style=for-the-badge" alt="https://www.linkedin.com/in/tushar-seth-4241561bb/" /></a> </p>
-
-- 🌱 I have good understanding of **Data Structure and Algorithm, Object Oriented Programming and Database Management System**
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 💬 Ask me about **C++,Java,Html,Css,JavaScript,SQL,MongoDB,React,DBMS,OOPS,OS,SAPUI5,Spring Boot**
-
-- 📫 You can reach me out at **sethtushar111@gmail.com**
-
-- ⚡ "**I am deeply passionate about development, constantly striving to innovate and expand my skills.**"
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://www.linkedin.com/in/tushar-seth-4241561bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.linkedin.com/in/tushar-seth-4241561bb/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tushar-seth-4241561bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-seth-4241561bb/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucit6wp8lrrzkildum9uzpxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucit6wp8lrrzkildum9uzpxg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/tushar_9836" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tushar_9836" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/tusquake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/tusquake" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/tushar_seth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tushar_seth/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@tusharrealme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@tusharrealme" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tusharrealme/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tusharrealme/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;System+Design+Enthusiast;Passionate+about+Clean+Architecture" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">I build scalable, reliable, and maintainable web applications with a focus on performance and clean design.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusquake&show_icons=true&locale=en&layout=compact" alt="tusquake" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusquake&show_icons=true&locale=en" alt="tusquake" /></p>
+###  About Me  
+-  Computer Science graduate with strong fundamentals in **Data Structures, Algorithms, and Database Systems**.  
+-  Currently focused on **Full Stack Web Development** using **React**, **Spring Boot**, and modern cloud-native tools.  
+-  Passionate about **System Design**, **Scalability**, and **Microservice Architecture**.  
+-  I enjoy transforming ideas into production-ready solutions through clean architecture and optimized APIs.  
+-  Reach me at **sethtushar111@gmail.com**  
+-  Always curious, always learning — one problem at a time.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusquake&" alt="tusquake" /></p>
+---
+
+###  Tech Stack  
+
+#### 💻 Programming & Core  
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+####  Frontend  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/SAPUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+</p>
+
+####  Backend  
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+</p>
+
+####  Databases & Caching  
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+####  Tools & Platforms  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+###  Focus Areas  
+-  **System Design** — designing scalable and resilient systems with efficient data flow.  
+-  **Microservices & APIs** — building loosely coupled, REST-based services.  
+-  **Cloud Readiness** — understanding deployment and containerization using Docker.  
+-  **Code Quality** — writing modular, maintainable, and well-documented code.  
+
+---
+
+###  GitHub Overview  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tusquake&show_icons=true&theme=react&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusquake&theme=react&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tusquake&layout=compact&theme=react&hide_border=true" width="50%"/>
+</p>
+
+---
+
+###  Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/tushar-seth-4241561bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/tushar_seth/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/tushar_9836" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/tusquake" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/tusharrealme/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/dashboard" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tusquake&label=Profile%20Views&color=0e75b6&style=flat-square" alt="tusquake" />
+</p>
