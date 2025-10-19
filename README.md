@@ -9,7 +9,7 @@
 ---
 
 ###  About Me  
--  Computer Science graduate with strong fundamentals in **Data Structures, Algorithms, and Database Systems**.  
+-  Software Developer with strong fundamentals in **Data Structures, Algorithms, and Database Systems**.  
 -  Currently focused on **Full Stack Web Development** using **React**, **Spring Boot**, and modern cloud-native tools.  
 -  Passionate about **System Design**, **Scalability**, and **Microservice Architecture**.  
 -  I enjoy transforming ideas into production-ready solutions through clean architecture and optimized APIs.  
